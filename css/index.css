@@ -125,4 +125,7 @@ footer {
     .menu_list {
         gap: 20px;
     }
+    .video {
+        padding: 0 30px;
+    }
 }
